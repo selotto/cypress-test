@@ -14,6 +14,8 @@ my-cypress-project
 │   ├── support
 │   │   ├── e2e.js              # Global configurations and behaviors
 │   │   └── commands.js         # Custom commands for tests
+│   ├──── pages
+│   │   ├── AuthPage.js             # Global configurations and behaviors
 │   └── plugins
 │       └── index.js            # Cypress plugins configuration
 ├── .gitignore                   # Files and directories to ignore by Git
