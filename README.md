@@ -43,6 +43,9 @@ To get started with this project, follow these steps:
    ```bash
    npx cypress open
    ```
+   Headed mode example:
+   npx cypress run --headed --spec "cypress/e2e/frontend-tests.cy.js"
+   
 
    This will open the Cypress Test Runner, where you can run your tests.
 
